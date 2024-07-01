@@ -1,6 +1,6 @@
 # PCIU Online Result
 
-Generate the CGPA (Cumulative Grade Point Average) based on your PCIU (Port City International University) results in a single click.
+Generate the CGPA (Cumulative Grade Point Average) based on your PCIU (Port City International University) results in a single click by proving your academic student ID. Now check your overall result from first to last and get your total CGPA. Best of luck.
 
 
 ## Site Link
@@ -23,7 +23,7 @@ CSE 022 07162
 
 ## Installation
 
-Install pciu-cgpa-calculator with npm / yarn / pnpm
+Install pciu--online-result with npm / npx / pnpm
 
 ```bash
   git clone https://github.com/devtousif/pciu-online-result
@@ -38,6 +38,7 @@ For Development mode:
 
 For Production mode:
 ```bash
-    pnpm build
-    pnpm start
+    npx next build
+    npx next start
+
 ```
